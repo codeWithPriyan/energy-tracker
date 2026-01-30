@@ -17,14 +17,6 @@ This system demonstrates modern microservices architecture with event-driven des
 - **Build Tool**: Maven
 - **Version Control**: Git
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-- Docker and Docker Compose installed
-- Java 21 (for local development)
-- Maven 3.8+
-- Git
 
 ## 📥 Installation & Setup
 
