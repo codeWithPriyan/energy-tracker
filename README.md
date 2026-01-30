@@ -670,10 +670,6 @@ Brief description of changes made.
 - **Discussions**: For general questions and ideas
 - **Wiki**: For detailed documentation
 
-#### Contact Maintainers
-
-- **Primary Maintainer**: [maintainer-email@example.com]
-- **Backup Maintainer**: [backup-email@example.com]
 
 ### 🏆 Recognition
 
